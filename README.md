@@ -6,5 +6,5 @@
 [3] [布尔操作符](https://github.com/WaltTing/For-jobs/blob/master/%E5%B8%83%E5%B0%94%E6%93%8D%E4%BD%9C%E7%AC%A6.md)   
 [4] [DNS解析原理](https://github.com/WaltTing/For-jobs/blob/master/DNS%E8%A7%A3%E6%9E%90%E5%8E%9F%E7%90%86.md)  
 [5] [HTTP缓存机制](https://github.com/WaltTing/For-jobs/blob/master/HTTP%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)  
-[6] 浅析HTTP和HTTPS   
-[7] GET和POST
+[6] [浅析HTTP和HTTPS](https://github.com/WaltTing/For-jobs/blob/master/%E6%B5%85%E6%9E%90HTTP%E5%92%8CHTTPS.md)   
+[7] [GET和POST](https://github.com/WaltTing/For-jobs/blob/master/GET%E5%92%8CPOST.md)
