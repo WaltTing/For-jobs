@@ -11,4 +11,4 @@
 [8] [OJ上的JS代码分析](https://github.com/WaltTing/For-jobs/blob/master/OJ%E4%B8%8A%E7%9A%84JS%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)   
 [9] [OJ常用函数及方法](https://github.com/WaltTing/For-jobs/blob/master/OJ%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0%E5%8F%8A%E6%96%B9%E6%B3%95.md)  
 [10] [CSS实现一个三角形](https://github.com/WaltTing/For-jobs/blob/master/CSS%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2.md)  
-[11] jQuery链式调用原理
+[11] [jQuery链式调用原理](https://github.com/WaltTing/For-jobs/blob/master/jQuery%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8%E5%8E%9F%E7%90%86.md)
