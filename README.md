@@ -1,6 +1,6 @@
 
 收录笔面试常见题、笔试题
-# 目录 
+# <div style="background-color:#ECECEC;width:40%">目录</div> 
 [1] [常见面试问题](https://github.com/WaltTing/For-jobs/blob/master/%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98.md)  
 [2] [网易笔试题之小易独立生活](https://github.com/WaltTing/For-jobs/blob/master/%E7%BD%91%E6%98%93%E7%AC%94%E8%AF%95%E9%A2%98%E4%B9%8B%E5%B0%8F%E6%98%93%E7%8B%AC%E7%AB%8B%E7%94%9F%E6%B4%BB.md)   
 [3] [布尔操作符](https://github.com/WaltTing/For-jobs/blob/master/%E5%B8%83%E5%B0%94%E6%93%8D%E4%BD%9C%E7%AC%A6.md)   
@@ -15,6 +15,6 @@
 [12] [水平居中元素的几种方法](https://github.com/WaltTing/For-jobs/blob/master/%E6%B0%B4%E5%B9%B3%E5%B1%85%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95.md)   
 [13] [重绘和回流](https://github.com/WaltTing/For-jobs/blob/master/%E9%87%8D%E7%BB%98%E5%92%8C%E5%9B%9E%E6%B5%81.md)   
 [14] [三次握手](https://github.com/WaltTing/For-jobs/blob/master/%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)   
-[15] 四次挥手  
+[15] [四次挥手 ](https://github.com/WaltTing/For-jobs/blob/master/%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)    
 [16] [输入URL到显示页面的流程 ](https://github.com/WaltTing/For-jobs/blob/master/%E8%BE%93%E5%85%A5URL%E5%88%B0%E6%98%BE%E7%A4%BA%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%B5%81%E7%A8%8B.md)   
 [17] [页面渲染原理](https://github.com/WaltTing/For-jobs/blob/master/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86.md) 
