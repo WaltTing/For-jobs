@@ -11,9 +11,10 @@
 [8] [OJ上的JS代码分析](https://github.com/WaltTing/For-jobs/blob/master/OJ%E4%B8%8A%E7%9A%84JS%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)   
 [9] [OJ常用函数及方法](https://github.com/WaltTing/For-jobs/blob/master/OJ%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0%E5%8F%8A%E6%96%B9%E6%B3%95.md)  
 [10] [CSS实现一个三角形](https://github.com/WaltTing/For-jobs/blob/master/CSS%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%B8%89%E8%A7%92%E5%BD%A2.md)  
-[11] [jQuery链式调用原理](https://github.com/WaltTing/For-jobs/blob/master/jQuery%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8%E5%8E%9F%E7%90%86.md)
+[11] [jQuery链式调用原理](https://github.com/WaltTing/For-jobs/blob/master/jQuery%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8%E5%8E%9F%E7%90%86.md)  
 [12] [水平居中元素的几种方法](https://github.com/WaltTing/For-jobs/blob/master/%E6%B0%B4%E5%B9%B3%E5%B1%85%E4%B8%AD%E5%85%83%E7%B4%A0%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95.md)   
 [13] [重绘和回流](https://github.com/WaltTing/For-jobs/blob/master/%E9%87%8D%E7%BB%98%E5%92%8C%E5%9B%9E%E6%B5%81.md)   
 [14] [三次握手](https://github.com/WaltTing/For-jobs/blob/master/%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)   
-[15] [输入URL到显示页面的流程 ](https://github.com/WaltTing/For-jobs/blob/master/%E8%BE%93%E5%85%A5URL%E5%88%B0%E6%98%BE%E7%A4%BA%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%B5%81%E7%A8%8B.md)   
-[16] [页面渲染原理](https://github.com/WaltTing/For-jobs/blob/master/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86.md) 
+[15] 四次挥手  
+[16] [输入URL到显示页面的流程 ](https://github.com/WaltTing/For-jobs/blob/master/%E8%BE%93%E5%85%A5URL%E5%88%B0%E6%98%BE%E7%A4%BA%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%B5%81%E7%A8%8B.md)   
+[17] [页面渲染原理](https://github.com/WaltTing/For-jobs/blob/master/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86.md) 

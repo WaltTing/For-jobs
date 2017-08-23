@@ -9,4 +9,7 @@
 5.握手成功后，浏览器向服务器发送HTTP请求，请求数据包。  
 6.服务器处理收到的请求，将数据返回给浏览器。   
 7.浏览器收到HTTP响应。   
-8.接下来就是页面渲染的内容了。
+8.接下来就是[页面渲染](https://github.com/WaltTing/For-jobs/blob/master/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86.md)的内容了。
+
+参考：[http://www.cnblogs.com/WaTa/p/5477374.html ](http://www.cnblogs.com/WaTa/p/5477374.html)    
+
