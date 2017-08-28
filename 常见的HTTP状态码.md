@@ -1,20 +1,19 @@
 <center>常见的HTTP状态码<center>
 <table>
-	<tr>
-		<th></th>
-		<th>状态码</th>
-		<th>意义</th>
-		<th>举例</th>
-	</tr>
-
-	<tr>
-		<th rowspan="2">2XX</th>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>OK</td>
-		<td>请求成功，请求所希望的响应头或数据都会随此响应返回</td>
-	</tr>
+<tr>
+   <th></th>
+   <th>状态码</th>
+   <th>意义</th>
+   <th>举例</th>
+</tr>
+<tr>
+   <th rowspan="2">2XX</th>
+</tr>
+   <tr>
+      <td>200</td>
+	 <td>OK</td>
+	 <td>请求成功，请求所希望的响应头或数据都会随此响应返回</td>
+   </tr>
 	<tr>
 		<th rowspan="4">3XX</th>
 	</tr>
