@@ -1,4 +1,4 @@
-<center>常见的HTTP状态码<center>
+<center>常见的HTTP状态码</center>
 <table>
 <tr>
    <th></th>
