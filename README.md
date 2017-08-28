@@ -20,4 +20,5 @@
 [17] [页面渲染原理](https://github.com/WaltTing/For-jobs/blob/master/%E9%A1%B5%E9%9D%A2%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86.md)    
 [18] [垂直居中的几种方法](https://github.com/WaltTing/For-jobs/blob/master/%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95.md)   
 [19] [Flex布局](https://github.com/WaltTing/For-jobs/blob/master/Flex%E5%B8%83%E5%B1%80.md)   
-[20] [兼容性问题及其解决方案](https://github.com/WaltTing/For-jobs/blob/master/%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+[20] [兼容性问题及其解决方案](https://github.com/WaltTing/For-jobs/blob/master/%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)   
+[21] [常见的HTTP状态码](https://github.com/WaltTing/For-jobs/blob/master/%E5%B8%B8%E8%A7%81%E7%9A%84HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md)
