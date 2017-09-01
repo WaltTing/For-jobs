@@ -22,4 +22,4 @@
 [19] [Flex布局](https://github.com/WaltTing/For-jobs/blob/master/Flex%E5%B8%83%E5%B1%80.md)   
 [20] [兼容性问题及其解决方案](https://github.com/WaltTing/For-jobs/blob/master/%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)   
 [21] [常见的HTTP状态码](https://github.com/WaltTing/For-jobs/blob/master/%E5%B8%B8%E8%A7%81%E7%9A%84HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md)  
-[22] 排列组合基础
+[22] [排列组合基础](https://github.com/WaltTing/For-jobs/blob/master/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E5%9F%BA%E7%A1%80.md)
