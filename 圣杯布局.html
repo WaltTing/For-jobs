@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>圣杯布局</title>
+    <style>
+        body,header,div,h4,footer{
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header{
+            width: 100%;
+            height: 50px;
+            background-color: red;
+        }
+        .container{
+            height: 200px;
+            overflow: hidden;
+            padding: 0 200px;    /*利用和下面的.left{position: relative;left:-200px;}
+            以及.right{position: relative;right:-200px;}来避免中间的内容区被缩放时的左右div给覆盖*/
+        }
+        .middle{
+            width: 100%;
+            height: 200px;
+            background-color: #ECECEC;
+            float: left;
+        }
+        .left{
+            width: 200px;
+            height: 200px;
+            position: relative;
+            left: -200px;
+            margin-left: -100%;    /*紧贴左边*/
+            background-color: blue;
+            float: left;
+        }
+        .right{
+            width: 200px;
+            height: 200px;
+            position: relative;
+            right: -200px;
+            margin-left: -200px;    /*紧贴右边*/
+            background-color: yellow;
+            float: left;
+        }
+        footer{
+            width: 100%;
+            height: 50px;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <header><h4>内容区</h4></header>
+    <div class="container">
+        <div class="middle"><h4>中间弹性区</h4></div>
+        <div class="left"><h4>左边栏</h4></div>
+        <div class="right"><h4>右边栏</h4></div>
+    </div>
+    <footer><h4>footer内容区</h4></footer>
+</body>
+</html>
