@@ -25,4 +25,4 @@
 [22] [排列组合基础](https://github.com/WaltTing/For-jobs/blob/master/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88%E5%9F%BA%E7%A1%80.md)    
 [23] [圣杯布局](https://github.com/WaltTing/For-jobs/blob/master/%E5%9C%A3%E6%9D%AF%E5%B8%83%E5%B1%80.html)   
 [24] [双飞翼布局](https://github.com/WaltTing/For-jobs/blob/master/%E5%9C%A3%E6%9D%AF%E5%B8%83%E5%B1%80.html)   
-[25] 圣杯布局和双飞翼布局的区别
+[25] [圣杯布局和双飞翼布局的区别](https://github.com/WaltTing/For-jobs/blob/master/%E5%9C%A3%E6%9D%AF%E5%B8%83%E5%B1%80%E5%92%8C%E5%8F%8C%E9%A3%9E%E7%BF%BC%E5%B8%83%E5%B1%80%E7%9A%84%E5%8C%BA%E5%88%AB.md)
