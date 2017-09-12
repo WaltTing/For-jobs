@@ -32,5 +32,5 @@
 [29] [实现三栏布局的三种方式](https://github.com/WaltTing/For-jobs/blob/master/%E5%AE%9E%E7%8E%B0%E4%B8%89%E6%A0%8F%E5%B8%83%E5%B1%80%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F.md)       
 [30] 原生JS实现图片轮播     
 [31] 回到顶部设计     
-[32] 小学体育老师求next数组   
+[32] [小学体育老师求next数组](https://github.com/WaltTing/For-jobs/blob/master/%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E6%B1%82next%E6%95%B0%E7%BB%84.md)   
 [34] next数组
