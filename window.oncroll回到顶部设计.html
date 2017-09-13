@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS回到顶部设计</title>
+</head>
+<style>
+    body{
+        text-align: center;
+    }
+    *{
+        padding:0;
+        margin: 0;
+    }
+    .navi{
+        width: 100%;
+        height: 60px;
+        background-color: black;
+        position: fixed;
+    }
+    ul{
+        text-align: center;
+    }
+    ul li{
+        list-style: none;
+        float: left;
+        width: 200px;
+        height: 60px;
+        color: white;
+        line-height: 60px;
+    }
+    ul li:first-child{
+        margin-left: 100px;
+    }
+    li:hover{
+        background-color: white;
+        color: black;
+    }
+    img{
+        width: 100%;
+        z-index: 0;
+    }
+    #float{
+        width: 300px;
+        height: 250px;
+        background-color: #ECECEC;
+        z-index: 2;
+    }
+    .footer{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        background-color: black;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    #btn{
+        width:100px;
+        height:100px;
+        background-color: red;
+        position: fixed;
+        right: 1em;
+        bottom: 1em;
+    }
+    #btn:hover{
+        background-color: yellow;
+    }
+
+</style>
+<body>
+<nav class="navi">
+    <ul>
+        <li>我的学术</li>
+        <li>我的空间</li>
+        <li>个人动态</li>
+    </ul>
+</nav>
+<div>
+    <div class="content"><img src="1.jpg" alt="">
+    </div>
+    <div id="words">
+        <h1>请往下拉</h1>
+        <h2>请往下拉</h2>
+        <h3>请往下拉</h3>
+        <h4>请往下拉</h4>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content-box"><p>By heynew</p></div>
+    </footer>
+
+    <a href="javascript:;" id="btn" title="回到顶部">回到顶部</a>
+
+</div>
+<script>
+    for(var i=0;i<10000;i++){
+        var words = document.getElementById('words');
+        var text = document.createElement("p");
+        text.innerText = "请往下拉";
+        words.appendChild(text);
+    }
+
+    window.onload = function(){
+        var obtn = document.getElementById('btn');
+        //获取页面可视区的高度
+        var clientHeight = document.documentElement.clientHeight;
+        console.log(clientHeight);
+        var timer = null;
+        var isTop = true;
+
+        window.onscroll = function(){  //滚动中停下来
+            var osTop = document.documentElement.scrollTop || document.body.scrollTop;  //滚动条的数值
+            if(osTop >=clientHeight){
+                obtn.style.display = 'block';
+            }else{
+                obtn.style.display = 'none';
+            }
+
+            if(!isTop){
+                clearInterval(timer);
+            }
+            isTop = false;
+        }
+
+        obtn.onclick = function(){
+            timer = setInterval(function(){
+                var osTop = document.documentElement.scrollTop || document.body.scrollTop;//chrome不支持前面
+                var speed = Math.floor(-osTop/6);  //设置由快到慢的返回效果,/6是为了减慢滚动的速度
+                document.documentElement.scrollTop = document.body.scrollTop = osTop + speed;
+                isTop = true;
+
+                if(osTop == 0){
+                    clearInterval(timer);   //返回到顶部后可以自己拖拽
+                }
+            },30);
+        }
+    }
+
+</script>
+</body>
+</html>
