@@ -33,4 +33,5 @@
 [30] [原生JS实现图片轮播](https://github.com/WaltTing/For-jobs/tree/master/%E5%8E%9F%E7%94%9FJS%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD)     
 [31] [回到顶部设计](https://github.com/WaltTing/For-jobs/blob/master/%E5%9B%9E%E5%88%B0%E9%A1%B6%E9%83%A8%E8%AE%BE%E8%AE%A1.md)     
 [32] [小学体育老师求next数组](https://github.com/WaltTing/For-jobs/blob/master/%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E6%B1%82next%E6%95%B0%E7%BB%84.md)       
-[33] 常见的HTML和CSS效果
+[33] 常见的HTML和CSS效果    
+[34] 常见的正则表达式
