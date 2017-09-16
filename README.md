@@ -35,4 +35,4 @@
 [32] [小学体育老师求next数组](https://github.com/WaltTing/For-jobs/blob/master/%E5%B0%8F%E5%AD%A6%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%88%E6%B1%82next%E6%95%B0%E7%BB%84.md)       
 [33] 常见的HTML和CSS效果      
 [34] 常见的正则表达式   
-[35] 笔试经典题
+[35] [笔试经典题](https://github.com/WaltTing/For-jobs/blob/master/%E7%AC%94%E8%AF%95%E7%BB%8F%E5%85%B8%E9%A2%98.md)
