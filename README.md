@@ -39,4 +39,5 @@
 [36] [HTML5 API](https://github.com/WaltTing/For-jobs/blob/master/HTML5%20API.md)     
 [37] HTTP响应头   
 [38] ES新方法   
-[39] 跨域
+[39] 跨域   
+[40] 垃圾收集机制
